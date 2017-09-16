@@ -1,2 +1,2 @@
 all:
-	gcc PCIList.c
+	gcc PCIList.c -o pcilist
